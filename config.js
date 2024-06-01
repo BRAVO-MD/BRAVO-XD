@@ -6,7 +6,7 @@ global.audio = "";
 global.video = "";
 global.port = process.env.PORT;
 global.appUrl = process.env.APP_URL || "";
-global.email = "losrios755@gmail.com";
+global.email = "hanifrehma323@gmail.com";
 global.location = "Njombe,Tanzania.";
 global.mongodb = process.env.MONGODB_URI || "";
 global.allowJids = process.env.ALLOW_JID || "null";
@@ -14,12 +14,12 @@ global.blockJids = process.env.BLOCK_JID || "null";
 global.DATABASE_URL = process.env.DATABASE_URL || "";
 global.timezone = process.env.TZ || process.env.TIME_ZONE || "Africa/Dar es salaam";
 global.github = process.env.GITHUB || "https://github.com/Kingjux/Venocyber-md";
-global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029VaYauR9ISTkHTj4xvi1l";
-global.website = process.env.GURL || "https://whatsapp.com/channel/0029VaYauR9ISTkHTj4xvi1l";
+global.gurl = process.env.GURL || "removed by bravo";
+global.website = process.env.GURL || "removed by bravo";
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/12b0fb245e6b8ba4bf718.jpg";
-global.devs = "255625774543";
-global.sudo = process.env.SUDO || "255625774543";
-global.owner = process.env.OWNER_NUMBER || "255625774543";
+global.devs = "923135067520";
+global.sudo = process.env.SUDO || "923135067520";
+global.owner = process.env.OWNER_NUMBER || "923135067520";
 global.style = process.env.STYLE || "3";
 global.gdbye = process.env.GOODBYE || "false";
 global.wlcm = process.env.WELCOME || "false";
@@ -48,11 +48,11 @@ module.exports = {
   HANDLERS: process.env.PREFIX || ".",
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "1.0.0",
-  caption: process.env.CAPTION || "𝐅𝐈𝐋𝐄-𝐆𝐄𝐍𝐄𝐑𝐀𝐓𝐄𝐃-𝐁𝐘-𝐕𝐄𝐍𝐎𝐂𝐘𝐁𝐄𝐑-𝐌𝐃 ╠════ need support then ☞ https://rb.gy/izabex ═════╣",
-  author: process.env.PACK_AUTHER || "VENOCYBER",
-  packname: process.env.PACK_NAME || "♥️",
-  botname: process.env.BOT_NAME || "VENOCYBER-𝐌𝐃",
-  ownername: process.env.OWNER_NAME || "VENOCYBER",
+  caption: process.env.CAPTION || "FILE-GENERATED-BY-BRAVO-MD ╠════ need support then ☞ https://rb.gy/izabex ═════╣",
+  author: process.env.PACK_AUTHER || "BRAVO",
+  packname: process.env.PACK_NAME || "BRAVO",
+  botname: process.env.BOT_NAME || "BRAVO-𝐌𝐃",
+  ownername: process.env.OWNER_NAME || "BRAVO",
   errorChat: process.env.ERROR_CHAT || "",
   KOYEB_API: process.env.KOYEB_API || "false",
   REMOVE_BG_KEY: process.env.REMOVE_BG_KEY || "",
@@ -64,7 +64,7 @@ module.exports = {
   aitts_Voice_Id: process.env.AITTS_ID || "37",
   ELEVENLAB_API_KEY: process.env.ELEVENLAB_API_KEY || "",
   WORKTYPE: process.env.WORKTYPE || process.env.MODE || "private",
-  LANG: (process.env.THEME || "VENOCYBER").toUpperCase(),
+  LANG: (process.env.THEME || "BRAVO").toUpperCase(),
 };
 global.rank = "updated";
 global.isMongodb = false;
